@@ -1,5 +1,5 @@
 {
-  "name": "jintiankansha-rss-processor",
+  "name": "poc-jintiankansha-rss-processor",
   "version": "1.0.0",
   "description": "RSS processor of 今天看啥",
   "main": "index.js",
@@ -8,13 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com-ivan:ivan-ha/jintiankansha-rss-processor.git"
+    "url": "git@github.com-ivan:ivan-ha/poc-jintiankansha-rss-processor.git"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.24.0",
     "cheerio": "^1.0.0-rc.10",
-    "dotenv": "^10.0.0"
+    "dotenv": "^10.0.0",
+    "rss-parser": "^3.12.0"
   }
 }
