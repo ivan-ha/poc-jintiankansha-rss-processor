@@ -11,5 +11,10 @@
     "url": "git@github.com-ivan:ivan-ha/jintiankansha-rss-processor.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^10.0.0"
+  }
 }
